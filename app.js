@@ -10,10 +10,6 @@ const embeds = [
     title: "Coke Olympics",
     url: "https://image.gocxm.com/gallery?program=288",
   },
-   {
-    title: "Coke Holiday",
-    url: "https://image.gocxm.com/gallery?program=275",
-  },
 ];
 
 // ── State ─────────────────────────────────────────────────────────────────────
