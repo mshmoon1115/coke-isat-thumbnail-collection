@@ -4,7 +4,15 @@
 const embeds = [
   {
     title: "Coke FIFA Wave 1",
-    url: "https://image.gocxm.com/gallery?program=ed097e06-6867-4841-b8c3-1e8729ee068f",
+    url: "https://image.gocxm.com/gallery?program=e30a0f87-aee4-41c7-9043-44688452e759",
+  },
+  {
+    title: "Coke Olympics",
+    url: "https://image.gocxm.com/gallery?program=288",
+  },
+   {
+    title: "Coke Olympics",
+    url: "https://image.gocxm.com/gallery?program=275",
   },
 ];
 
