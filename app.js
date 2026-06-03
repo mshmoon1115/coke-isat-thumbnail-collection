@@ -11,7 +11,7 @@ const embeds = [
     url: "https://image.gocxm.com/gallery?program=288",
   },
    {
-    title: "Coke Olympics",
+    title: "Coke Holiday",
     url: "https://image.gocxm.com/gallery?program=275",
   },
 ];
